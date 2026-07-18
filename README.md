@@ -1,8 +1,8 @@
 # Kaan Demirel
 
-AI, automation, and full-stack product builder.
+AI, automation, and product builder.
 
-I build local-first tools, SaaS products, and developer-focused automation with Python, TypeScript, and Rust.
+I build local-first tools, SaaS products, and developer-focused automation with JavaScript, Vue, Supabase, MongoDB, Python, and Rust.
 
 ## Featured projects
 
@@ -22,7 +22,7 @@ I build local-first tools, SaaS products, and developer-focused automation with 
 
 ## Tech stack
 
-Python · TypeScript · Rust · React · Next.js · Node.js · PostgreSQL · SQLite · N8N
+JavaScript · Vue · Supabase · MongoDB · Python · Rust · SQLite · N8N
 
 ## Contact
 
