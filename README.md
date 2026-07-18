@@ -1,8 +1,8 @@
 # Kaan Demirel
 
-AI, automation, and product builder.
+I build AI-driven products, automation, and local-first tools.
 
-I build local-first tools, SaaS products, and developer-focused automation with JavaScript, Vue, Supabase, MongoDB, Python, and Rust.
+JavaScript, Vue, Supabase, MongoDB, Python, Rust.
 
 ## Featured projects
 
