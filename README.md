@@ -7,7 +7,7 @@ JavaScript, Vue, Supabase, MongoDB, Python, Rust.
 ## Featured projects
 
 - [hermes-fact-store](https://github.com/aethrox/hermes-fact-store) — local persistent fact memory for Hermes Agent using SQLite + FTS5.
-- [ThinkTwice](https://github.com/aethrox/ThinkTwice) — AI decision tool that stages a debate between advocates before producing a verdict.
+- [ThinkTwice](https://github.com/aethrox/ThinkTwice) — AI decision tool that stages a debate between advocates before producing a verdict. (Forked)
 - [keencli](https://github.com/aethrox/keencli) — Rust CLI for Keenetic router diagnostics and log analysis.
 - [klaro](https://github.com/aethrox/klaro) — autonomous documentation generator that turns codebases into readable docs.
 - [signaflow](https://github.com/aethrox/signaflow) — enterprise email signature management platform; full frontend and N8N API implementation.
