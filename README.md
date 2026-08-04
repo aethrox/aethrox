@@ -1,5 +1,3 @@
-<a href="https://aethrox.me">aethrox.me</a> · <a href="https://github.com/aethrox">GitHub / @aethrox</a>
-
 ![banner](banner.png)
 ## Building useful systems with AI and automation.
 
@@ -14,6 +12,10 @@ The goal is to make software-assisted work more reliable, understandable, and co
 `AI SYSTEMS` · `AUTOMATION` · `LOCAL-FIRST` · `DEVELOPER TOOLS`
 
 <!-- _{SELECTED WORK}_ -->
+
+## Blog Channel
+
+<a href="https://aethrox.me">aethrox.me</a>
 
 ## Projects
 
