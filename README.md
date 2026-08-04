@@ -1,30 +1,31 @@
-# Kaan Demirel
+<a href="https://aethrox.me">aethrox.me</a> · <a href="https://github.com/aethrox">GitHub / @aethrox</a>
 
-I build AI-driven products, automation, and local-first tools.
+![[banner.png]]
+## Building useful systems with AI and automation.
 
-JavaScript, Vue, Supabase, MongoDB, Python, Rust.
+I build AI infrastructure, automation tools, developer utilities, and local-first software.
 
-## Featured projects
+I am interested in systems that continue working beyond a single prompt: systems that preserve context, expose uncertainty, request approval when necessary, and leave behind results that can be inspected.
 
-- [hermes-fact-store](https://github.com/aethrox/hermes-fact-store) — local persistent fact memory for Hermes Agent using SQLite + FTS5.
-- [ThinkTwice](https://github.com/aethrox/ThinkTwice) — AI decision tool that stages a debate between advocates before producing a verdict. (Forked)
-- [keencli](https://github.com/aethrox/keencli) — Rust CLI for Keenetic router diagnostics and log analysis.
-- [klaro](https://github.com/aethrox/klaro) — autonomous documentation generator that turns codebases into readable docs.
-- [signaflow](https://github.com/aethrox/signaflow) — enterprise email signature management platform; full frontend and N8N API implementation.
+The goal is not to make AI appear autonomous.
 
-## What I work on
+The goal is to make software-assisted work more reliable, understandable, and controllable.
 
-- AI-assisted product development
-- Automation and workflow tooling
-- Full-stack SaaS applications
-- CLI utilities and developer tools
-- Self-hosted / local-first software
+`AI SYSTEMS` · `AUTOMATION` · `LOCAL-FIRST` · `DEVELOPER TOOLS`
 
-## Tech stack
+<!-- _{SELECTED WORK}_ -->
 
-JavaScript · Vue · Supabase · MongoDB · Python · Rust · SQLite · N8N
+## Projects
 
-## Contact
+|Project|What it is|
+|---|---|
+|[browtrace](https://github.com/aethrox/browtrace)|A Rust and eBPF CLI that observes outbound browser connections on Linux without inspecting encrypted content.|
+|[cleansys](https://github.com/aethrox/cleansys)|A minimalist CLI for finding and safely cleaning digital clutter through review, previews, and explicit approval.|
+|[keencli](https://github.com/aethrox/keencli)|A Rust CLI for Keenetic router diagnostics and log analysis.|
+|[klaro](https://github.com/aethrox/klaro)|An autonomous documentation generator that turns codebases into readable documentation.|
 
-- GitHub: [@aethrox](https://github.com/aethrox)
-- Location: Turkey
+## Current direction
+
+Agent systems · Local-first tools · Automation
+
+![[footer.png]]
