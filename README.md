@@ -1,28 +1,104 @@
-![banner](banner.png)
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
 
-## Building useful systems with AI and automation.
+<h1 align="center">AETHROX</h1>
 
-My work focuses on systems that preserve context, expose uncertainty, request approval when necessary, and leave behind results that can be inspected.
+<p align="center">
+  Building useful systems with AI and automation.
+</p>
 
-> The goal is not to make AI appear autonomous.
+<p align="center">
+  <a href="https://aethrox.me">Website</a>
+  ·
+  <a href="https://github.com/aethrox">GitHub</a>
+  ·
+  <a href="mailto:kaan@aethrox.me">Contact</a>
+</p>
 
-## Selected Work
+<h2>Overview</h2>
 
-| Project | Description |
-|---------|-------------|
-| **Browtrace** | Browser connection observability with Rust and eBPF. |
-| **CleanSys** | Review-first digital cleanup with explicit approval. |
-| **Klaro** | Autonomous documentation generation for existing codebases. |
-| **KeenCLI** | Diagnostics and log analysis for Keenetic routers. |
+<p>
+I build AI infrastructure, automation tools, developer utilities, and
+local-first software.
 
----
+My focus is creating systems that remain reliable, inspectable, and under
+human control.
+</p>
 
-## More
+<blockquote>
+The goal is not to make AI appear autonomous.<br>
+</blockquote>
 
-🌐 **Website** -> https://aethrox.me/about
+<h2>Selected Work</h2>
 
-🧾 **Blog** -> https://aethrox.me/blog
+<table>
+<tr>
+<td width="50%">
 
----
+<h3>Browtrace</h3>
 
-![footer](footer.png)
+Browser connection observability with Rust and eBPF.
+
+<a href="https://github.com/aethrox/browtrace">
+View Project →
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>CleanSys</h3>
+
+Review-first digital cleanup with explicit approval.
+
+<a href="https://github.com/aethrox/cleansys">
+View Project →
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<h3>Klaro</h3>
+
+Autonomous documentation generation.
+
+<a href="https://github.com/aethrox/klaro">
+View Project →
+</a>
+
+</td>
+
+<td>
+
+<h3>KeenCLI</h3>
+
+Keenetic diagnostics and log analysis.
+
+<a href="https://github.com/aethrox/keencli">
+View Project →
+</a>
+
+</td>
+</tr>
+</table>
+
+<h2>Focus</h2>
+
+<p>
+
+<code>AI SYSTEMS</code>
+<code>AUTOMATION</code>
+<code>LOCAL-FIRST</code>
+<code>DEVELOPER TOOLS</code>
+
+</p>
+
+<br>
+
+<p align="center">
+  <img src="footer.png" width="100%">
+</p>
