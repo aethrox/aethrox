@@ -1,33 +1,28 @@
 ![banner](banner.png)
+
 ## Building useful systems with AI and automation.
 
-I build AI infrastructure, automation tools, developer utilities, and local-first software.
+My work focuses on systems that preserve context, expose uncertainty, request approval when necessary, and leave behind results that can be inspected.
 
-I am interested in systems that continue working beyond a single prompt: systems that preserve context, expose uncertainty, request approval when necessary, and leave behind results that can be inspected.
+> The goal is not to make AI appear autonomous.
 
-The goal is not to make AI appear autonomous.
+## Selected Work
 
-The goal is to make software-assisted work more reliable, understandable, and controllable.
+| Project | Description |
+|---------|-------------|
+| **Browtrace** | Browser connection observability with Rust and eBPF. |
+| **CleanSys** | Review-first digital cleanup with explicit approval. |
+| **Klaro** | Autonomous documentation generation for existing codebases. |
+| **KeenCLI** | Diagnostics and log analysis for Keenetic routers. |
 
-`AI SYSTEMS` · `AUTOMATION` · `LOCAL-FIRST` · `DEVELOPER TOOLS`
+---
 
-<!-- _{SELECTED WORK}_ -->
+## More
 
-## Blog Channel
+🌐 **Website** -> https://aethrox.me/about
 
-<a href="https://aethrox.me">aethrox.me</a>
+🧾 **Blog** -> https://aethrox.me/blog
 
-## Projects
-
-|Project|What it is|
-|---|---|
-|[browtrace](https://github.com/aethrox/browtrace)|A Rust and eBPF CLI that observes outbound browser connections on Linux without inspecting encrypted content.|
-|[cleansys](https://github.com/aethrox/cleansys)|A minimalist CLI for finding and safely cleaning digital clutter through review, previews, and explicit approval.|
-|[keencli](https://github.com/aethrox/keencli)|A Rust CLI for Keenetic router diagnostics and log analysis.|
-|[klaro](https://github.com/aethrox/klaro)|An autonomous documentation generator that turns codebases into readable documentation.|
-
-## Current direction
-
-Agent systems · Local-first tools · Automation
+---
 
 ![footer](footer.png)
