@@ -1,6 +1,6 @@
 <a href="https://aethrox.me">aethrox.me</a> · <a href="https://github.com/aethrox">GitHub / @aethrox</a>
 
-![[banner.png]]
+![banner](banner.png)
 ## Building useful systems with AI and automation.
 
 I build AI infrastructure, automation tools, developer utilities, and local-first software.
@@ -28,4 +28,4 @@ The goal is to make software-assisted work more reliable, understandable, and co
 
 Agent systems · Local-first tools · Automation
 
-![[footer.png]]
+![footer](footer.png)
