@@ -5,7 +5,7 @@
 <h1 align="center">AETHROX</h1>
 
 <p align="center">
-  Building useful systems with AI and automation.
+  Developer tools, AI agents, and local-first software.
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ The goal is not to make AI appear autonomous.<br>
 
 <h3>Browtrace</h3>
 
-Browser connection observability with Rust and eBPF.
+Rust + eBPF CLI that observes outbound TCP connections opened by browser processes on Linux and prints connection metadata in real time.
 
 <a href="https://github.com/aethrox/browtrace">
 View Project →
@@ -59,7 +59,7 @@ View Project →
 
 <h3>CleanSys</h3>
 
-Review-first digital cleanup with explicit approval.
+Interactive folder cleanup by age, size, or type — keep, move, archive, or delete matches, always with explicit approval.
 
 <a href="https://github.com/aethrox/cleansys">
 View Project →
@@ -73,7 +73,7 @@ View Project →
 
 <h3>Klaro</h3>
 
-Autonomous documentation generation.
+AI agent that reads a codebase and generates its documentation using a LangChain/LangGraph ReAct loop with RAG-based style matching.
 
 <a href="https://github.com/aethrox/klaro">
 View Project →
@@ -85,7 +85,7 @@ View Project →
 
 <h3>KeenCLI</h3>
 
-Keenetic diagnostics and log analysis.
+Pulls, filters, and masks diagnostic data from Keenetic routers, with an optional AI-generated report.
 
 <a href="https://github.com/aethrox/keencli">
 View Project →
