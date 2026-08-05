@@ -28,11 +28,15 @@
 <h2>Overview</h2>
 
 <p>
-I build AI infrastructure, automation tools, developer utilities, and
-local-first software.
+I build small, composable tools instead of one big platform: CLIs, agents,
+and infrastructure that do one job well and stay debuggable when they fail.
 
-My focus is creating systems that remain reliable, inspectable, and under
-human control.
+Most of what I ship touches AI in some way, but the AI is a component, not
+the point: it drafts, suggests, and automates, while every consequential
+action still passes through an explicit approval step.
+
+I run everything self-hosted where I can (Podman, systemd)
+because I'd rather own my failure modes than rent them.
 </p>
 
 <blockquote>
