@@ -43,7 +43,9 @@ because I'd rather own my failure modes than rent them.
 The goal is not to make AI appear autonomous.<br>
 </blockquote>
 
-<h2>Selected Work</h2>
+<br/>
+
+<h3>Selected Work</h3>
 
 <table>
 <tr>
