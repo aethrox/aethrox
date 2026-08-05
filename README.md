@@ -86,17 +86,6 @@ View Project →
 </tr>
 </table>
 
-<h2>Focus</h2>
-
-<p>
-
-<code>AI SYSTEMS</code>
-<code>AUTOMATION</code>
-<code>LOCAL-FIRST</code>
-<code>DEVELOPER TOOLS</code>
-
-</p>
-
 <br>
 
 <p align="center">
