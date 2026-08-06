@@ -61,7 +61,7 @@ View Project →
 
 <h3>CleanSys</h3>
 
-Interactive folder cleanup by age, size, or type — keep, move, archive, or delete matches, always with explicit approval.
+Interactive folder cleanup by age, size, or type: keep, move, archive, or delete matches, always with explicit approval.
 
 <a href="https://github.com/aethrox/cleansys">
 View Project →
