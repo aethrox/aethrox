@@ -7,7 +7,7 @@
   ·
   <a href="https://github.com/aethrox">GitHub</a>
   ·
-  <a href="mailto:kaan@aethrox.me">Contact</a>
+  <a href="mailto:kaandemirel@aethrox.me">Contact</a>
 </p>
 
 <p align="center">
