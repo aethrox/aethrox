@@ -38,8 +38,6 @@ because I'd rather own my failure modes than rent them.
 The goal is not to make AI appear autonomous.
 </blockquote>
 
-<br/>
-
 <h3>Now</h3>
 
 <ul>
@@ -47,42 +45,6 @@ The goal is not to make AI appear autonomous.
 <li><a href="https://github.com/aethrox/shodan-mcp">shodan-mcp</a> — MCP server for scanning your own infrastructure and searching Shodan's internet-wide data</li>
 <li><a href="https://github.com/aethrox/browtrace">browtrace</a> — Rust + eBPF CLI that observes outbound TCP connections opened by browser processes on Linux</li>
 </ul>
-
-<br/>
-
-<h3>Featured</h3>
-
-<table>
-<tr>
-<td width="50%">
-
-<h3>Klaro</h3>
-
-<sub><code>Python · LangGraph</code></sub>
-
-AI agent that reads a codebase and generates its documentation using a LangChain/LangGraph ReAct loop with RAG-based style matching.
-
-<a href="https://github.com/aethrox/klaro">
-View Project →
-</a>
-
-</td>
-
-<td width="50%">
-
-<h3>CleanSys</h3>
-
-<sub><code>Shell</code></sub>
-
-Interactive folder cleanup by age, size, or type: keep, move, archive, or delete matches, always with explicit approval.
-
-<a href="https://github.com/aethrox/cleansys">
-View Project →
-</a>
-
-</td>
-</tr>
-</table>
 
 <br>
 
