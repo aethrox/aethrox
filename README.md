@@ -40,19 +40,29 @@ The goal is not to make AI appear autonomous.
 
 <br/>
 
-<h3>Selected Work</h3>
+<h3>Now</h3>
+
+<ul>
+<li><a href="https://github.com/aethrox/doctrine">doctrine</a> — engineering discipline (OWASP, ITIL, IETF RFCs, ISO, SBAR) shipped as a Claude Code plugin and MCP server</li>
+<li><a href="https://github.com/aethrox/shodan-mcp">shodan-mcp</a> — MCP server for scanning your own infrastructure and searching Shodan's internet-wide data</li>
+<li><a href="https://github.com/aethrox/browtrace">browtrace</a> — Rust + eBPF CLI that observes outbound TCP connections opened by browser processes on Linux</li>
+</ul>
+
+<br/>
+
+<h3>Featured</h3>
 
 <table>
 <tr>
 <td width="50%">
 
-<h3>Browtrace</h3>
+<h3>Klaro</h3>
 
-<sub><code>Rust · eBPF</code></sub>
+<sub><code>Python · LangGraph</code></sub>
 
-Rust + eBPF CLI that observes outbound TCP connections opened by browser processes on Linux and prints connection metadata in real time.
+AI agent that reads a codebase and generates its documentation using a LangChain/LangGraph ReAct loop with RAG-based style matching.
 
-<a href="https://github.com/aethrox/browtrace">
+<a href="https://github.com/aethrox/klaro">
 View Project →
 </a>
 
@@ -67,36 +77,6 @@ View Project →
 Interactive folder cleanup by age, size, or type: keep, move, archive, or delete matches, always with explicit approval.
 
 <a href="https://github.com/aethrox/cleansys">
-View Project →
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<h3>Klaro</h3>
-
-<sub><code>Python · LangGraph</code></sub>
-
-AI agent that reads a codebase and generates its documentation using a LangChain/LangGraph ReAct loop with RAG-based style matching.
-
-<a href="https://github.com/aethrox/klaro">
-View Project →
-</a>
-
-</td>
-
-<td>
-
-<h3>KeenCLI</h3>
-
-<sub><code>Python</code></sub>
-
-Pulls, filters, and masks diagnostic data from Keenetic routers, with an optional AI-generated report.
-
-<a href="https://github.com/aethrox/keencli">
 View Project →
 </a>
 
